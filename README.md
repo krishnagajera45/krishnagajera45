@@ -12,13 +12,21 @@ I'm a passionate computer engineering graduate student at San Diego State Univer
 ## 🌱 I’m currently learning:
 - Advanced Machine Learning and Neural Networks
 - Cloud Computing and Azure DevOps
-- Software Testing Automation using Selenium and UFT
-- Advanced topics in Computer Engineering as part of my Master's program at SDSU
+- VLSI Testing
+- Embedded OS
+- Full stack web development
+- Data structures and Algorithms
 
 ## 💞️ I’m looking to collaborate on:
 - Open-source projects related to IoT, Machine Learning, and Software Testing
 - Research in Machine Learning applications for real-world problems
 - Innovative projects combining hardware and software solutions for smarter systems
+
+
+## 📄 Publication:
+[1] Chalke, S., Ganesan, S., Gajera, K., Reshim, P., Patil, N. (2022). The Freshness of Food Detection Using IoT and Machine Learning. In: Shakya, S., Balas, V.E., Kamolphiwong, S., Du, KL. (eds) Sentimental Analysis and Deep Learning. Advances in Intelligent Systems and Computing, vol 1408. Springer, Singapore. https://doi.org/10.1007/978-981-16-5157-1_27
+
+This publication presents an innovative IoT-enabled device using machine learning algorithms to accurately determine the freshness of food products. The project integrated various sensors (MQ-4, MQ-9, DHT11) and utilized cloud services for real-time monitoring, showcasing advancements in predictive analytics and IoT applications.
 
 ## 📫 How to reach me:
 - Email: [krishnagajera45@gmail.com](mailto:krishnagajera45@gmail.com)
