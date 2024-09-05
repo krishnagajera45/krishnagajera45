@@ -34,7 +34,7 @@ This publication presents an innovative IoT-enabled device using machine learnin
 - GitHub: [github.com/krishnagajera45](https://github.com/krishnagajera45)
 
 ## 😄 Pronouns:
-- He/Him
+- She/Her
 
 ## ⚡ Fun fact:
 - I recently led a team to design an IoT device for detecting food freshness using machine learning algorithms, and I love exploring how technology can solve everyday problems!
