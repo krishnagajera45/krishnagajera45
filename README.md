@@ -1,41 +1,79 @@
-# 👋 Hi, I’m Krishna Gajera (@krishnagajera45)
+# 👋 Hey there! I’m Krishna Gajera
 
-I'm a passionate computer engineering graduate student at San Diego State University, with a Bachelor's degree in Electronics and Telecommunication Engineering. I have hands-on experience in software testing, quality assurance, and automation, along with a strong foundation in IoT, machine learning, and embedded systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=IoT+%2B+ML+%3D+Magic+%F0%9F%94%AE;Always+learning+something+new...;QA+Engineer+turned+Full-Stack+Builder!" />
+</p>
 
-## 👀 I’m interested in:
-- Machine Learning and Artificial Intelligence
-- Internet of Things (IoT) and Embedded Systems
-- Software Testing and Quality Assurance
-- DevOps and Automation Tools
-- Research in Signal Processing, Wireless Networks, and VLSI
+🚀 A Computer Engineering grad student at **San Diego State University** with a deep-rooted passion for building intelligent systems that blend hardware and software magic. I bring 3 years of experience as a QA Engineer at **Capgemini**, and a portfolio of impactful projects in **IoT, Machine Learning, and Embedded Systems**.
 
-## 🌱 I’m currently learning:
-- Advanced Machine Learning and Neural Networks
-- Cloud Computing and Azure DevOps
-- VLSI Testing
-- Embedded OS
-- Full stack web development
-- Data structures and Algorithms
+## 💼 About Me
 
-## 💞️ I’m looking to collaborate on:
-- Open-source projects related to IoT, Machine Learning, and Software Testing
-- Research in Machine Learning applications for real-world problems
-- Innovative projects combining hardware and software solutions for smarter systems
+- 🔍 Former **Software QA Engineer** | Led testing for insurance platforms, automated pipelines with Selenium, and maintained high-quality deliverables via Azure DevOps
+- 🧠 Currently diving deep into **Full Stack Web Developement**, **Computer Network**, **Multimedia Communication**, **Cloud DevOps**, **VLSI Testing**, and **Embedded OS**
+- 🛠️ I turn bold ideas into real-world systems—from **UAV network simulators** to **smart IoT devices**
+- 🎯 I am curious about building smarter, efficient, and more intuitive tech by merging software intelligence with embedded systems
 
+## 🔭 What I'm Working On
+- **Decentralized UAV Swarm Network**: Simulating realistic mobility and routing protocols using Python and SimPy, with visual 3D analysis 📡
+- **AI-Enabled IoT Devices**: From sensors to cloud dashboards—machine learning meets hardware 👃🍱
+- **Full-Stack Projects**: Building interactive web apps using **Next.js**, **React**, and **FastAPI**
+- **AI Experiments**: Playing with **LLMs** to explore generative AI 🌟
 
-## 📄 Publication:
-[1] Chalke, S., Ganesan, S., Gajera, K., Reshim, P., Patil, N. (2022). The Freshness of Food Detection Using IoT and Machine Learning. In: Shakya, S., Balas, V.E., Kamolphiwong, S., Du, KL. (eds) Sentimental Analysis and Deep Learning. Advances in Intelligent Systems and Computing, vol 1408. Springer, Singapore. https://doi.org/10.1007/978-981-16-5157-1_27
+## 🧠 Skills & Toolbox
 
-This publication presents an innovative IoT-enabled device using machine learning algorithms to accurately determine the freshness of food products. The project integrated various sensors (MQ-4, MQ-9, DHT11) and utilized cloud services for real-time monitoring, showcasing advancements in predictive analytics and IoT applications.
+| Area | Tools & Tech |
+|------|--------------|
+| **Languages** | Python, C++, Java, JavaScript, SQL, Verilog |
+| **Web Dev** | React, Next.js, FastAPI, HTML/CSS, Tailwind CSS |
+| **QA & DevOps** | Selenium, Jenkins, Azure DevOps, CI/CD, Git, Postman |
+| **AI/ML** | TensorFlow, PyTorch, Scikit-learn, Hugging Face |
+| **IoT & Hardware** | Arduino, Node MCU, MQ-4/MQ-9, DHT11, ThingSpeak |
+| **DBs** | PostgreSQL, MySQL, SQLite |
+| **Embedded/VLSI** | VLSI Testing, Embedded OS, MATLAB |
 
-## 📫 How to reach me:
-- Email: [krishnagajera45@gmail.com](mailto:krishnagajera45@gmail.com)
-- LinkedIn: [linkedin.com/in/krishnagajera](https://linkedin.com/in/krishnagajera)
-- GitHub: [github.com/krishnagajera45](https://github.com/krishnagajera45)
+<!-- ## 🌱 Currently Learning
+- 🧬 Neural Networks & Deep Learning
+- ☁️ Azure DevOps & Cloud Automation
+- 📦 Full-Stack Architectures
+- 🛠️ Embedded System Debugging & Optimization -->
 
-## 😄 Pronouns:
+## 🤝 Open to Collaborate On
+- 🔬 Research projects in Wireless Networks & Signal Processing
+- 🔍 DevOps & QA automation pipelines
+- ✨ Any cool open-source idea with real-world impact!
+- 🧠 ML-powered IoT innovations
+
+---
+
+## 📰 Featured Publication
+📄 *The Freshness of Food Detection Using IoT and Machine Learning*  
+Springer, Advances in Intelligent Systems and Computing, 2022  
+📌 [Read here](https://doi.org/10.1007/978-981-16-5157-1_27)
+
+> 🥼 This project utilized sensor arrays + ML models to detect food freshness in real-time. Integrated with cloud services & embedded intelligence—it’s tech that smells what’s cooking (literally)!
+
+---
+
+## 🏆 Highlights & Achievements
+- 🏅 Rockstar Recognition & Best Team Award @ Capgemini
+- 🤖 UFT One Certified Professional | Jenkins Pipeline Automation
+- 🌐 Built real-time IoT dashboards, full-stack ML workflows, and more!
+
+---
+
+## 📬 Let’s Connect
+
+- 💌 Email: [krishnagajera45@gmail.com](mailto:krishnagajera45@gmail.com)  
+- 👔 LinkedIn: [linkedin.com/in/krishnagajera](https://linkedin.com/in/krishnagajera)  
+- 🧑‍💻 GitHub: [github.com/krishnagajera45](https://github.com/krishnagajera45)
+
+---
+
+## 😄 Pronouns
 - She/Her
 
-## ⚡ Fun fact:
-- I recently led a team to design an IoT device for detecting food freshness using machine learning algorithms, and I love exploring how technology can solve everyday problems!
+## 📊 My Github Activity
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnagajera45&theme=github_dark" width="100%" />
+</p>
