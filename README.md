@@ -64,8 +64,6 @@ Springer, Advances in Intelligent Systems and Computing, 2022
 - 👔 LinkedIn: [linkedin.com/in/krishnagajera](https://linkedin.com/in/krishnagajera)  
 - 🧑‍💻 GitHub: [github.com/krishnagajera45](https://github.com/krishnagajera45)
 
----
-
 ## 😄 Pronouns
 - She/Her
 
