@@ -52,14 +52,11 @@ Springer, Advances in Intelligent Systems and Computing, 2022
 
 > 🥼 This project utilized sensor arrays + ML models to detect food freshness in real-time. Integrated with cloud services & embedded intelligence—it’s tech that smells what’s cooking (literally)!
 
----
 
 ## 🏆 Highlights & Achievements
 - 🏅 Rockstar Recognition & Best Team Award @ Capgemini
 - 🤖 UFT One Certified Professional | Jenkins Pipeline Automation
 - 🌐 Built real-time IoT dashboards, full-stack ML workflows, and more!
-
----
 
 ## 📬 Let’s Connect
 
