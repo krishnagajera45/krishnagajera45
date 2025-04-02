@@ -56,7 +56,6 @@ Springer, Advances in Intelligent Systems and Computing, 2022
 ## 🏆 Highlights & Achievements
 - 🏅 Rockstar Recognition & Best Team Award @ Capgemini
 - 🤖 UFT One Certified Professional | Jenkins Pipeline Automation
-- 🌐 Built real-time IoT dashboards, full-stack ML workflows, and more!
 
 ## 📬 Let’s Connect
 
