@@ -61,7 +61,6 @@ Springer, Advances in Intelligent Systems and Computing, 2022
 
 - 💌 Email: [krishnagajera45@gmail.com](mailto:krishnagajera45@gmail.com)  
 - 👔 LinkedIn: [linkedin.com/in/krishnagajera](https://linkedin.com/in/krishnagajera)  
-- 🧑‍💻 GitHub: [github.com/krishnagajera45](https://github.com/krishnagajera45)
 
 ## 😄 Pronouns
 - She/Her
