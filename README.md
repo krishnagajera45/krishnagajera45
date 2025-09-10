@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=IoT+%2B+ML+%3D+Magic+%F0%9F%94%AE;Always+learning+something+new...;QA+Engineer+turned+Full-Stack+Builder!" />
 </p>
 
-> 🚀 A Computer Engineering grad student at **San Diego State University** with a deep-rooted passion for building intelligent systems that blend hardware and software magic. I bring 3 years of experience as a QA Engineer at **Capgemini**, and a portfolio of impactful projects in **IoT, Machine Learning, and Embedded Systems**.
+> 🚀 A Computer Engineering grad student at **San Diego State University** with a deep-rooted passion for building intelligent systems that blend hardware and software magic. I bring 3 years of experience as a Software Engineer at **Capgemini**, and Currentlu volunteering in **Perplexity AI Campus Partner** @ SDSU, fostering AI literacy and research adoption across campus.
 
 ## 💼 About Me
 - 🔍 Former **Software QA Engineer** | Led testing for insurance platforms, automated pipelines with Selenium, and maintained high-quality deliverables via Azure DevOps
