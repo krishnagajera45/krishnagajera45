@@ -24,10 +24,10 @@
 |------|-------------|
 | **Languages** | Python, C++, Java, JavaScript, SQL, Verilog |
 | **Web Dev** | React, Next.js, FastAPI, HTML/CSS, Tailwind CSS |
-| **QA & DevOps** | Selenium, Jenkins, Azure DevOps, CI/CD, Git, Postman |
+| **QA & DevOps** | Selenium, Jenkins, Azure DevOps, CI/CD, Git, Postman, Docker, Kubernates, Ansible, Terraform|
 | **AI/ML** | TensorFlow, PyTorch, Scikit-learn, Hugging Face |
 | **IoT & Hardware** | Arduino, Node MCU, MQ-4/MQ-9, DHT11, ThingSpeak |
-| **DBs** | PostgreSQL, MySQL, SQLite |
+| **DBs** | PostgreSQL, MySQL, SQLite, Redis|
 | **Embedded/VLSI** | VLSI Testing, Embedded OS, MATLAB |
 
 <!-- ## 🌱 Currently Learning
