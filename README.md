@@ -1,7 +1,7 @@
 <h1 align="center">✨ Krishna Gajera ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2AA889&center=true&vCenter=true&width=700&lines=ML+Engineer+%7C+Cloud+%2F+DevOps+Architect+%F0%9F%9A%80;LLM+%26+Agentic+AI+Builder+%F0%9F%A4%96;3%2B+Years+%40+Capgemini+%7C+Grad+Student+%40+SDSU;AWS+%7C+Azure+%7C+GCP+%7C+Kubernetes+%7C+Terraform;Building+AI+systems+that+actually+ship+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2AA889&center=true&vCenter=true&width=700&lines=ML+Engineer+%7C+Cloud+%2F+DevOps+Architect+%F0%9F%9A%80;LLM+%26+Agentic+AI+Builder+%F0%9F%A4%96;3%2B+Years+%40+Capgemini+%7C+Grad+Student+%40+SDSU;AWS+%7C+Azure+%7C+GCP+%7C+Kubernetes+%7C+Terraform;Building+useful+AI+systems+that+actually+impacts+%F0%9F%94%A5" />
 </p>
 
 <p align="center">
